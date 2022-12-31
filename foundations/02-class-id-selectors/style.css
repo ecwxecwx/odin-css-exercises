@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+}
+
+.odd {
+    background-color: pink;
+}
+
+.odd.cool {
+    font: 1.5em sans-serif;
+}
+
+#one {
+    color: blue;
+    font: 2.5em sans-serif;
+}
+
+#two {
+    background-color: lightgreen;
+    font: bold 1.25em sans-serif;
+}
